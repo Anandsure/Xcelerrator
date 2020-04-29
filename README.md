@@ -1,3 +1,3 @@
 # Xcelerrator internship
 - First assignment at as1.py
-- Second assignment at feature_extraction.ipynb
+- Second assignment at feature_extraction.ipynb and with_nltk.ipynb
